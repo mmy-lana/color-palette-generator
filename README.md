@@ -58,7 +58,7 @@ The color extraction pipeline uses standard browser APIs and mathematical color 
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/color-palette-generator.git
+git clone https://github.com/mmy-lana/color-palette-generator.git
 cd color-palette-generator
 
 # Install dependencies
